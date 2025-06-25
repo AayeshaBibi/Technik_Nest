@@ -1,0 +1,10 @@
+Ayesha (ID: TN/IN01/PY/016)
+
+name = input("enter your name   : ")
+hobby = input("enter your hobby : ")
+age = int(input("enter your age : "))
+print("\n     ********      INFORMATION        *********")
+print("name = ", name, "   //  hobby = " , hobby, "   //  age = " , age, "   //   Want to learn python just for being AI Engineer")
+num1 = float(input("enter 1 number : "))
+num2 = float(input("enetr 2 number : "))
+print("Addition of two numbers = ", num1+num2)
